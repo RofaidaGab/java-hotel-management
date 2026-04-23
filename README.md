@@ -118,14 +118,10 @@ hotel-de-luna/
 │   ├── Room.java
 │   └── ...
 │
-├── data/
-│   ├── customers.csv
-│   ├── rooms.csv
-│   └── employees.csv
-│
-└── screenshots/
-    ├── login.png
-    ├── room_availability.png
-    ├── customer_detail.png
-    └── employee_management.png
+└── data/
+    ├── customers.csv
+    ├── rooms.csv
+    └── employees.csv
+
+ 
 ```
